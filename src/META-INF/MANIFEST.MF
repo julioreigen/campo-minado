@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: host.juliobrito.campominado.view.TelaPrincipal
+
