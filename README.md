@@ -4,8 +4,8 @@
 
 Este é um campo minado simples desenvolvido durante aula do curso de Java da [COD3R](https://www.cod3r.com.br)
 
-![Campo minado em execução](https://github.com/julioreigen/campo-minado/tree/main/img/campo1.png)
-![Perdendo no campo minado](https://github.com/julioreigen/campo-minado/tree/main/img/campo2.png)
+![Campo minado em execução](https://github.com/julioreigen/campo-minado/blob/main/img/campo1.png?raw=true)
+![Perdendo no campo minado](https://github.com/julioreigen/campo-minado/blob/main/img/campo2.png?raw=true)
 
 ## Como executar
 
