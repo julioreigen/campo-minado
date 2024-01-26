@@ -4,9 +4,6 @@
 
 Este é um campo minado simples desenvolvido durante aula do curso de Java da [COD3R](https://www.cod3r.com.br)
 
-![Campo minado em execução](https://github.com/julioreigen/campo-minado/blob/main/img/campo1.png?raw=true)
-![Perdendo no campo minado](https://github.com/julioreigen/campo-minado/blob/main/img/campo2.png?raw=true)
-
 ## Como executar
 
 * Baixe o arquivo `.jar` na página de releases
@@ -24,3 +21,8 @@ apertando com o botão direito do mouse. O jogo acaba quando você abrir todas a
 
 * Mouse Botão Esquerdo: abrir
 * Mouse Botão Direito: marcar
+
+## Imagens
+
+![Campo minado em execução](https://github.com/julioreigen/campo-minado/blob/main/img/campo1.png?raw=true)
+![Perdendo no campo minado](https://github.com/julioreigen/campo-minado/blob/main/img/campo2.png?raw=true)
